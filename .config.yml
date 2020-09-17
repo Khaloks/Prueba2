@@ -1,0 +1,11 @@
+url: https://Khaloks.github.io/
+baseurl: "/Prueba"
+
+title: Prueba 2
+author: Emil
+
+plugins:
+ - jekyll-paginate
+
+#número de post por página
+paginate: 5
